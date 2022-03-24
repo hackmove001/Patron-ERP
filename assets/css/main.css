@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* 
+* {
+    border: 1px solid #333;
+} */
+
+.orange {
+    color: rgb(255, 89, 0);
+}
+
+.text-hover:hover {
+    color: rgb(255, 89, 0);
+    transition: all 0.2s ease;
+}
+
+.bg-orange {
+    background-color: rgb(255, 89, 0);
+}
