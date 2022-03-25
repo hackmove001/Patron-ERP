@@ -20,3 +20,7 @@ body {
 .bg-orange {
     background-color: rgb(255, 89, 0);
 }
+
+.bg-light-blue {
+    background: #cfe1e3;
+}
