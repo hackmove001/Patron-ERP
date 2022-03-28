@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
 
 body {
-    font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 /* 
 * {
@@ -9,18 +9,22 @@ body {
 } */
 
 .orange {
-    color: rgb(255, 89, 0);
+  color: rgb(255, 89, 0);
 }
 
 .text-hover:hover {
-    color: rgb(255, 89, 0);
-    transition: all 0.2s ease;
+  color: rgb(255, 89, 0);
+  transition: all 0.2s ease;
 }
 
 .bg-orange {
-    background-color: rgb(255, 89, 0);
+  background-color: rgb(255, 89, 0);
+}
+
+.border-orange {
+  border-color: rgb(255, 89, 0);
 }
 
 .bg-light-blue {
-    background: #cfe1e3;
+  background: #cfe1e3;
 }
